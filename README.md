@@ -1,4 +1,4 @@
-<h1 align="center">Waterfox Source Code</h1>
+<h1 align="center">Icefox Source Code</h1>
 
 [![Website](https://img.shields.io/website?url=https://www.waterfox.net)](https://www.waterfox.net)
 [![🏗 Builds](https://github.com/WaterfoxCo/Waterfox/actions/workflows/push.yml/badge.svg)](https://github.com/WaterfoxCo/Waterfox/actions/workflows/push.yml)
